@@ -17,3 +17,4 @@ So why settle for an outdated and unreliable JavaScript engine when you can harn
 The engine that's lighter on CPU and faster than ever before. With Nebula, your code will fly at lightning speed, while your CPU can breathe a sigh of relief. Say goodbye to slow load times and resource-heavy engines, and say hello to a new era of speed and efficiency. 
 
 *Try Nebula today* and experience the **future of JavaScript**! ⚡💻🚀
+-
